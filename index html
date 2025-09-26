@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<body>
+<head>
+    <title>Title</title>
+</head>
+    <h1>Heading1</h1>
+    <h2>Heading2</h2>
+</body>
+    <style>
+        h1 {
+        color: red;
+    }
+        h2 {
+        color: blue;
+    }
+    </style>
+</html>

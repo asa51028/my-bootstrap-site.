@@ -1,0 +1,14 @@
+:root{
+    --primary-color: #161516;
+    --secondary-color: #201f20;
+    --font-family: 'Arial, sans-serif';
+    --background-color: #f5f5f5;
+}
+
+.bg-primary-color{
+    background-color: var(--primary-color);
+}
+
+.bg-secondary-color{
+    background-color: var(--secondary-color);
+}
